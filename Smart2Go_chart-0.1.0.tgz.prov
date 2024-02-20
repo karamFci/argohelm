@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+name: Smart2Go_chart
+type: application
+version: 0.1.0
+
+...
+files:
+  Smart2Go_chart-0.1.0.tgz: sha256:e3a79d3c4e100aaa54939a284e5a24f2e07cde0bbadb9a97c4ec0176ea117f29
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJl1KqACRC9L1fzGlkpoAAAmloMAIZEdJXgAW2vJ2p0KCAkD2CT
+20NeLFFMZ1hItGKu3Jt5PUpI7Jdhz0zBMn5dNVZwSddT9U7TOmO+tYKGNIiETEfT
+qIqIMY7U/HhQHCvRr/CYYpSFp2x9SpASL95TEweh7c6+XHNVKzIMVDSVrv5crfHQ
+LNQEYWHq300N+yoggqVhEWlRSPOlJmB4w12NgbGZ2yrMXuaE0mZ27HV2mrn7WHQA
+5FOfw9IRM3eAk3vPMmbyvrHVRmwqhzS5ZT6++hXHL+m93yEovkioKtBNgh2IpKJd
+imGWiZz4JNur8S10Nx7q+lUKrUAR+28IlSgJb0uXGBW9cg9zzhLCKaiUDvOVM8gr
+jh9T6HGTF/pUZqx7aE4iSLBX/0MrcK0vF5Ci+nCkwJJiyZSGhDapZLXVhxwdufCf
+IUS8DnaiQAltI+rtiI0M6bV10t+etuJe2TR7SA8yfnQVIYBTUvx65PdvNBy4IcBD
+RKdoixHTzz/A23vqL7FkMH75TAvubt448U5hk9pDsg==
+=AdeS
+-----END PGP SIGNATURE-----
